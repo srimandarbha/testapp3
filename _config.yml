@@ -1,7 +1,7 @@
 # Site settings
-title: This is my personal blog. You can fork me on gihub tweet me on twitter or mail me to the below url.
+title: Sriman Darbha
 email: sriman1988@yahoo.com
-description: "Sriman Darbha's web-blog."
+description: "This is my personal web-blog, you can fork me on github, tweet me on twitter and even mail me on the email address on the left :)"
 baseurl: ""
 url: "http://srimandarbha.com"
 exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor, gems]
