@@ -6,11 +6,12 @@ categories: jekyll update
 ---
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Sriman Darbha')
-#=> prints 'Hi, Tom' to STDOUT.
+                              Hello Everyone!
+
+I am have made this app with jekyll(ruby) hosted on heroku web hosting site. I want to make much out of this website and share my knowledge with you.
+
+                                ##Good Day##
+                        
 {% endhighlight %}
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
