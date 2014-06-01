@@ -6,6 +6,8 @@ baseurl: ""
 url: "http://srimandarbha.com"
 exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor, gems]
 
+image:
+          background: linux.is.sexy..png
 # Build settings
 markdown: kramdown
 permalink: pretty
